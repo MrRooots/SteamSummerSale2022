@@ -22,4 +22,4 @@ const timerId = setInterval(() => {
   } else {
     clearInterval(timerId);
   }
-}, 50);
+}, 200);
